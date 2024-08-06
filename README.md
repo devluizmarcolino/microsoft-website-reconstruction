@@ -1,7 +1,7 @@
 # microsoft-website-reconstruction
 
 
-<img src="imagem.png" alt="Imagem site">
+<img src="image.png" alt="Imagem site">
 
 > Este pequeno projeto é para fins educativos e aprendizado. Apenas refiz/restruturei a página atual da Microsoft.
 
